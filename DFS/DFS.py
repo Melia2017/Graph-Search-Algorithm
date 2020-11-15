@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  7 14:50:24 2020
-
-@author: m_mel
-"""
 
 from collections import defaultdict 
   
