@@ -30,7 +30,7 @@ class Graph:
         visited[v] = True
         print(v, end = ' ') 
   
-        # Recur for all the neighbours
+        # Repeat for all the adjacent vertices
         for i in self.graph[v]: 
             if i not in self.graph:
                 visited[i] = True
